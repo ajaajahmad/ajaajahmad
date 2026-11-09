@@ -20,7 +20,7 @@
 
 ### 🏆 Awards
 
-- **Star of the Quarter (Dec 2023)**: awarded for designing and developing an enterprise-level automation framework.
+- **Star of the Quarter (Dec 2023)**: awarded for designing and developing a hybrid automation framework.
 
 ---
 
