@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ajaaj Ahmad 👋</h1>
+<h3 align="center">SDET | QA Automation Engineer | Java · Selenium · TestNG · Rest Assured · CI/CD</h3>
 
-<!--
-**ajaajahmad/ajaajahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajaajahmad/"><img src="https://img.shields.io/badge/LinkedIn-ajaajahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ajaaj.a@outlook.com"><img src="https://img.shields.io/badge/Email-ajaaj.a%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 About me
+
+- SDET with **4.5+ years** at ValueFirst (including a 1-year QA traineeship), testing **Infinito**, a multichannel CPaaS platform (SMS, WhatsApp, RCS, Email).
+- Designed and own a **hybrid automation framework** (Java, Selenium, TestNG, Cucumber, Rest Assured, Maven, POM) with parallel execution, Extent/Allure reporting and Log4j2 logging.
+- 🏆 **Star of the Quarter (Dec 2023)** for designing and developing an enterprise-level automation framework.
+- Build **Jenkins** and **GitHub Actions** pipelines with **Docker** that run smoke and regression suites on every build.
+- Test **GenAI / LLM-driven features**: AI template generation, campaign workflows and analytics.
+- 🔭 Open to **SDET / QA Automation** roles.
+
+---
+
+### 🛠️ Tech stack
+
+**Language & automation**<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square" alt="TestNG">
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
+
+**API & database**<br>
+<img src="https://img.shields.io/badge/Rest%20Assured-2E7D32?style=flat-square" alt="Rest Assured">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+
+**CI/CD & tools**<br>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+
+---
+
+### 📌 Featured project
+
+| Project | What it shows |
+|---|---|
+| [**[FRAMEWORK-REPO-NAME]**](https://github.com/ajaajahmad/[FRAMEWORK-REPO-NAME]) | Hybrid Selenium + TestNG + Rest Assured framework: POM, ThreadLocal WebDriver, parallel runs, data-driven tests, Extent/Allure reports, GitHub Actions CI |
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ajaajahmad&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaajahmad&layout=compact&hide_border=true" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ajaajahmad&hide_border=true" alt="GitHub streak">
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajaajahmad&row=1&column=6&margin-w=8&no-frame=true" alt="GitHub trophies">
+</p>
