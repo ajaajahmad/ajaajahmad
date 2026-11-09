@@ -47,7 +47,7 @@
 
 | Project | What it shows |
 |---|---|
-| [**QuantumQA-Automation**](https://github.com/ajaajahmad/QuantumQA-Automation) | Hybrid Selenium + TestNG + Rest Assured framework: POM, ThreadLocal WebDriver, parallel runs, data-driven tests, Extent reports, GitHub Actions CI |
+| [**QuantumQA-Automation**](https://github.com/ajaajahmad/QuantumQA-Automation) | Hybrid Selenium + TestNG framework: POM, ThreadLocal WebDriver, parallel runs, data-driven tests, Extent reports, GitHub Actions CI |
 
 ---
 
