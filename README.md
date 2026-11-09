@@ -54,12 +54,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ajaajahmad&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaajahmad&layout=compact&hide_border=true" alt="Top languages">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details">
+</p>
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats">
+  <img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ajaajahmad&hide_border=true" alt="GitHub streak">
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajaajahmad&row=1&column=6&margin-w=8&no-frame=true" alt="GitHub trophies">
 </p>
