@@ -61,5 +61,5 @@
   <img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajaajahmad&theme=black&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=ajaajahmad&theme=dark&background=0D1117&border=30363D&ring=F78166&fire=F78166&currStreakLabel=F78166" alt="GitHub streak">
 </p>
