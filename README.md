@@ -63,5 +63,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ajaajahmad&theme=black&hide_border=true" alt="GitHub streak">
 </p>
-
----
