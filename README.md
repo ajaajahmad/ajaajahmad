@@ -11,10 +11,10 @@
 ### 🧪 About me
 
 - SDET with **4.5+ years** at ValueFirst (including a 1-year QA traineeship), testing **Infinito**, a multichannel CPaaS platform (SMS, WhatsApp, RCS, Email).
-- Designed and own a **hybrid automation framework** (Java, Selenium, TestNG, Cucumber, Rest Assured, Maven, POM) with parallel execution, Extent/Allure reporting and Log4j2 logging.
+- Designed and owned a **hybrid automation framework** (Java, Selenium, TestNG, Cucumber, Rest Assured, Maven, POM) with parallel execution, Extent/Allure reporting, and Log4j2 logging.
 - 🏆 **Star of the Quarter (Dec 2023)** for designing and developing an enterprise-level automation framework.
 - Build **Jenkins** and **GitHub Actions** pipelines with **Docker** that run smoke and regression suites on every build.
-- Test **GenAI / LLM-driven features**: AI template generation, campaign workflows and analytics.
+- Test **GenAI / LLM-driven features**: AI template generation, campaign workflows, and analytics.
 - 🔭 Open to **SDET / QA Automation** roles.
 
 ---
@@ -47,7 +47,7 @@
 
 | Project | What it shows |
 |---|---|
-| [**[FRAMEWORK-REPO-NAME]**](https://github.com/ajaajahmad/[FRAMEWORK-REPO-NAME]) | Hybrid Selenium + TestNG + Rest Assured framework: POM, ThreadLocal WebDriver, parallel runs, data-driven tests, Extent/Allure reports, GitHub Actions CI |
+| [**QuantumQA-Automation**](https://github.com/ajaajahmad/QuantumQA-Automation) | Hybrid Selenium + TestNG + Rest Assured framework: POM, ThreadLocal WebDriver, parallel runs, data-driven tests, Extent reports, GitHub Actions CI |
 
 ---
 
