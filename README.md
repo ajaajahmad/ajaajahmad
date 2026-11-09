@@ -48,14 +48,6 @@
 
 ---
 
-### 📌 Featured project
-
-| Project | What it shows |
-|---|---|
-| [**QuantumQA-Automation**](https://github.com/ajaajahmad/QuantumQA-Automation) | Hybrid Selenium + TestNG framework: POM, ThreadLocal WebDriver, parallel runs, data-driven tests, Extent reports, GitHub Actions CI |
-
----
-
 ### 📊 GitHub stats
 
 <p align="center">
