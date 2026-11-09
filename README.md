@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajaajahmad/"><img src="https://img.shields.io/badge/LinkedIn-ajaajahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ajaaj.a@outlook.com"><img src="https://img.shields.io/badge/Email-ajaaj.a%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+  <a href="mailto:ajaaj.ahmad@outlook.com"><img src="https://img.shields.io/badge/Email-ajaaj.ahmad%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
 </p>
 
 ---
