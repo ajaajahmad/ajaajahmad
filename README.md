@@ -61,5 +61,13 @@
   <img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajaajahmad&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=ajaajahmad&theme=dark&hide_border=true" alt="GitHub streak">
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ajaajahmad&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
