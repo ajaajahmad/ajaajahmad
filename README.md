@@ -10,8 +10,8 @@
 
 ### 🧪 About me
 
-- SDET with **4.5+ years** at ValueFirst (including a 1-year QA traineeship), testing **Infinito**, a multichannel CPaaS platform (SMS, WhatsApp, RCS, Email).
-- Designed and owned a **hybrid automation framework** (Java, Selenium, TestNG, Cucumber, Rest Assured, Maven, POM) with parallel execution, Extent Reports, and Log4j2 logging.
+- QA Automation Engineer with **4.5+ years** at ValueFirst (including a 1-year QA traineeship), testing **Infinito**, a multichannel CPaaS platform (SMS, WhatsApp, RCS, Email).
+- Designed and owned a **hybrid automation framework** (Java, Selenium, TestNG, Cucumber, Maven, POM) with parallel execution, Extent Reports, and Log4j2 logging.
 - Build **Jenkins** and **GitHub Actions** pipelines with **Docker** that run smoke and regression suites on every build.
 - Test **GenAI / LLM-driven features**: AI template generation, campaign workflows, and analytics.
 - 🔭 Open to **SDET / QA Automation** roles.
