@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ajaaj Ahmad 👋</h1>
-<h3 align="center">SDET | QA Automation Engineer | Java · Selenium · TestNG · Rest Assured · CI/CD</h3>
+<h3 align="center">QA Automation Engineer | Java · Selenium · TestNG · CI/CD</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajaajahmad/"><img src="https://img.shields.io/badge/LinkedIn-ajaajahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
