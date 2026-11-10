@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
 
 **API & database**<br>
-<img src="https://img.shields.io/badge/Rest%20Assured-2E7D32?style=flat-square" alt="Rest Assured">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 
